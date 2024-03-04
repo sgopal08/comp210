@@ -1,3 +1,3 @@
-# Work Space for COMP 210: Introduction to Programming and Data Science.
+# Work Space for COMP 210: Data Structures and Analysis.
 
-Introduces students to programming and data science from a computational perspective. With an emphasis on modern applications in society, students gain experience with problem decomposition, algorithms for data analysis, abstraction design, and ethics in computing. No prior programming experience expected. Foundational concepts include data types, sequences, boolean logic, control flow, functions/methods, recursion, classes/objects, input/output, data organization, transformations, and visualizations.
+This course teaches us how to organize the data used in computer programs so that manipulation of that data can be done efficiently on large problems and large data instances. Rather than learning to use the data structures found in the libraries of programming languages, we will be learning how those libraries are constructed, and why the items that are included in them are there (and why some are excluded).
